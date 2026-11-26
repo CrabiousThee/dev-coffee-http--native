@@ -2,7 +2,7 @@
 
 API RESTful de gerenciamento de fila de pedidos da cafeteria **Dev Coffee**, desenvolvida para a Atividade Prática AP2 (Desenvolvimento Back-End).
 
-**Autor:** Yuri de Souza Dias —  2026001065 - Desenvolvimento de banco de dados
+**Autor:** Yuri de Souza Dias —  2026001065 - Desenvolvimento back end
 
 ## Como executar
 
